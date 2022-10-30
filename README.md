@@ -11,6 +11,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Yarn](https://classic.yarnpkg.com/en/)
 - [React Native](https://reactnative.dev//)
 - [Expo](https://docs.expo.dev/tutorial/planning/)
-
-<p> Gif da atividade:</p>
-<img src="https://twitter.com/josecanjoos/status/1586500648958296067">
