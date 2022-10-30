@@ -1,4 +1,4 @@
-<h1 align="center">WarPigs - Com a biblioteca React Native!.</h1>
+<h1 align="center">WarPigs - Com a biblioteca React Native!</h1>
 <p align="center">:snowflake: Aplicação simples para atividade da faculdade.</p>
 <p>O projeto foi construindo com React Native, aplicação simples, estática sem banco de dados.</p>
 Tem como finalidade efetuar o estudo no comportamento de componentes e como funciona requisições em Json e formatação de Dados em WEB.
