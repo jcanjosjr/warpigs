@@ -13,4 +13,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Expo](https://docs.expo.dev/tutorial/planning/)
 
 <p> Gif da atividade:</p>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-a514079026.gif">
+<img src="https://twitter.com/josecanjoos/status/1586500648958296067">
